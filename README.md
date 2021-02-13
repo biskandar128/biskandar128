@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biskandar128
+- 👋 Hi, I’m Bayu Indratama Iskandar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me biskandar128@gmail.com
